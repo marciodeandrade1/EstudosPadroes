@@ -30,7 +30,9 @@ Creational Design Pattern (Criacionais)
 * Builder
 * Prototype
 * Singleton
+
 Structural Design Patterns (Estruturais)
+
 * Adapter
 * Bridge
 * Composite
@@ -38,7 +40,9 @@ Structural Design Patterns (Estruturais)
 * Façade
 * Flyweight
 * Proxy
+
 Behavioral Design Patterns (Comportamentais)
+
 * Chain of Responsibility
 * Command
 * Interpreter
